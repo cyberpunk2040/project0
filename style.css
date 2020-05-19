@@ -1,0 +1,49 @@
+#heading, header{
+	padding-left: 10px;
+	background-image: linear-gradient(black,grey) ;
+    padding-right: 40px;
+    padding-top: 1px;
+    padding-bottom: 50px;
+	text-align: center;
+	height: 100px;
+	width:103%;
+	color: white;
+	font-size: 200%;
+	font-family: brushed traveler;
+    font-weight: bold;
+}
+body{
+  background: url(bg.png) no-repeat;
+  background-size: cover;
+  margin-right: 100px;
+  
+}
+#textbg{
+    font-family: consolas;
+    color:white;
+    font-weight: lighter;
+}
+img{
+	
+	border-radius: 4px;
+	padding: 3px;
+	border: 1px solid yellow;
+	border-style: solid;
+	width: 300px;
+	width: 13%;
+	align: right;
+}
+.image
+{
+	margin: auto;
+	margin-top: 20px;
+	margin-left: 10px;
+	padding: 14px;
+	width: 1320px;
+}
+.subheading
+{
+	font-family: rage;
+	color: white;
+	font-size: 30px;
+}
